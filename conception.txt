@@ -1,0 +1,15 @@
+Player Structure
+
+typedef struct {
+    char name[PLAYER_NAME_MAX];
+    int points;
+    int x;
+    int y;
+} Player;
+
+Functions to do :
+1)Initialize the board in the beginning of the game
+2) To display the board
+3) To log into a file
+4) Play Rock-Paper-Scissors
+5) To move player to a location
