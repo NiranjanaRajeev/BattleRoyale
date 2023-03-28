@@ -6,7 +6,7 @@
 
 int is_tile_out_of_bounds(int x, int y, int board_length, int board_width)
 {
-    if(x<0 || x>=board_length && y<0 || y>=board_width)
+    if(x<0 || x>=board_length || y<0 || y>=board_width)
     {
         return 1; //out of bounds
     }
@@ -56,4 +56,12 @@ void initialize(int num_players, int board_length, int board_width, player* play
      
     }
    
+}
+
+// Function to log all actions into a file
+void log_action(char* message) {
+    FILE* logfile;
+    logfile = fopen("game_log.txt", "a");
+    fprintf(logfile, "%s\n", message);
+    fclose(logfile);
 }
