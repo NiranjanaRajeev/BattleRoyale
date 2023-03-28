@@ -4,7 +4,7 @@
 
 
 int main(int argc, char *argv[]) {
-    int num_players,board_length,board_width;
+
     // Check if the correct number of arguments were provided
     if (argc != 4) {
         printf("Usage: %s <num_players> <board_size>\n", argv[0]);
@@ -16,7 +16,9 @@ int main(int argc, char *argv[]) {
     board_length = atoi(argv[2]);
     board_width = atoi(argv[3]);
     //initialize an array of player structures
-    player *players_array=(player*)malloc(num_players * sizeof(player*));
-    initialize(num_players,board_length,board_width,players_array);
+    player *players_array=(player*)malloc(num_players * sizeof(player));
+    initialize(players_array);
+    move_player(0,players_array);
+    printf("player location is %d %d",players_array[0].x,players_array[0].y);
     return 0;
 }
