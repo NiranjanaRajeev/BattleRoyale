@@ -11,8 +11,8 @@ typedef struct {
 
 int is_tile_out_of_bounds(int x, int y, int board_length, int board_width);//To know if the tile is out of bounds
 int is_tile_available(int x, int y, player **players_array,int board_length, int board_width,int num_players); //to know if the tile is occupied by another player
-void add_player(int index, player **players_array,player *new_player); //To add a player to the array
-void initialize(int num_players, int board_length, int board_width, player **players_array);  //Initialize the board in the beginning of the game
+void add_player(int index, player *players_array,player *new_player); //To add a player to the array
+void initialize(int num_players, int board_length, int board_width, player *players_array);  //Initialize the board in the beginning of the game
 void log_action(char* message);//To log messages
 void move_player(player *currentplayer,player **players_array); //To move player to a location
 void check_adjacent_tiles(player *currentplayer, player **players_array);//check adjacent tiles
