@@ -16,8 +16,7 @@ int main(int argc, char *argv[]) {
     board_length = atoi(argv[2]);
     board_width = atoi(argv[3]);
     //initialize an array of player structures
-    player *players_array=(player*)malloc(num_players * sizeof(player));
-    initialize(num_players,board_length,board_width,&players_array);
-
+    player *players_array=(player*)malloc(num_players * sizeof(player*));
+    initialize(num_players,board_length,board_width,players_array);
     return 0;
 }

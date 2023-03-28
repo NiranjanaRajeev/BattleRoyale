@@ -30,19 +30,20 @@ int is_tile_available(int x, int y, player **players_array,int board_length, int
     return 1; //tile available
 }
 
-void add_player(int index, player **players_array,player *new_player)
+void add_player(int index, player *players_array,player *new_player)
 {
-    players_array[index]= new_player;
+    players_array[index]=new_player;
+
 }
 
-void initialize(int num_players, int board_length, int board_width, player **players_array)
+void initialize(int num_players, int board_length, int board_width, player* players_array)
 {
     char name[20];
     int i,x,y;
 
     srand(time(NULL));
 
-    //Loop through the players array and initialize player name and life points
+ //Loop through the players array and initialize player name and life points
     for(i=0;i<num_players;i++)
     {
      printf("Enter player %d name",i+1);
@@ -59,4 +60,5 @@ void initialize(int num_players, int board_length, int board_width, player **pla
      new_player->y =y;
      add_player(i,players_array,new_player);
     }
+   
 }
