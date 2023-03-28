@@ -12,3 +12,20 @@ int is_tile_out_of_bounds(int x, int y, int board_length, int board_width)
     }
     return 0;  //within bounds
 }
+
+int is_tile_available(int x, int y, player **players_array,int board_length, int board_width,int num_players)
+{
+    int i;
+    //check if the tile is within bounds
+    if(is_tile_out_of_bounds(x,y,board_length,board_width)){
+        return 0;
+    }
+    //Loop through players array to check if tile is occupied
+    for(i=0;i<num_players;i++)
+    {
+        if(players_array[i]->x == x && players_array[i]->y == y){
+        return 0;
+    }
+    }
+    return 1;
+}
