@@ -10,7 +10,7 @@ typedef struct {
 } player; 
 
 int is_tile_out_of_bounds(int x, int y, int board_length, int board_width);//To know if the tile is out of bounds
-int is_tile_available(int x, int y, player **players_array); //to know if the tile is occupied by another player
+int is_tile_available(int x, int y, player **players_array,int board_length, int board_width,int num_players); //to know if the tile is occupied by another player
 void initialize(int num_players, int board_length, int board_width, player **players_array);  //Initialize the board in the beginning of the game
 void log_action(char* message);//To log messages
 void move_player(player *currentplayer,player **players_array); //To move player to a location
