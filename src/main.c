@@ -18,7 +18,19 @@ int main(int argc, char *argv[]) {
     //initialize an array of player structures
     player *players_array=(player*)malloc(num_players * sizeof(player));
     initialize(players_array);
-    move_player(0,players_array);
-    printf("player location is %d %d",players_array[0].x,players_array[0].y);
+    int current_player=0;
+    do{
+        move_player(current_player,players_array);
+        check_adjacent_tiles(current_player,players_array);
+        if(current_player<num_players-1){
+            current_player++;
+        }
+        else{
+            current_player=0;
+        }
+        printf("number of players is %d \n",num_players);
+    }while(num_players>1);
+
+    printf("%s wins \n",players_array[0].name);
     return 0;
 }
