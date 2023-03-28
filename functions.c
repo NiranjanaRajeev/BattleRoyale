@@ -24,8 +24,13 @@ int is_tile_available(int x, int y, player **players_array,int board_length, int
     for(i=0;i<num_players;i++)
     {
         if(players_array[i]->x == x && players_array[i]->y == y){
-        return 0;
+        return 0; //tile unavailable
     }
     }
-    return 1;
+    return 1; //tile available
+}
+
+void add_player(int index, player **players_array,player *new_player)
+{
+    players_array[index]= new_player;
 }
