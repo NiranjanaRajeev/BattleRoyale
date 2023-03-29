@@ -19,7 +19,13 @@ int main(int argc, char *argv[]) {
     remove("game_log.txt");
     //initialize an array of player structures
     player *players_array=(player*)malloc(num_players * sizeof(player));
-    initialize(players_array);
+    char* file = "names.txt";
+    initialize(players_array,file);
+    for(int i =0;i<num_players;i++)
+    {
+        sprintf(message,"Player %d is %s \n",i+1,players_array[i].name);
+        log_action(message);
+    }
     int current_player=0;
     //game loop
     sprintf(message,"The Battle Royale begins \n");

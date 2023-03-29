@@ -32,7 +32,62 @@ int is_tile_available(int x, int y, player *players_array)
     return 1; //tile available
 }
 
-void initialize( player* players_array)
+int is_name_available(char *name,player *players_array)
+{
+ for(int i=0;i<num_players;i++)
+ {  
+    
+    if(strcmp(name,players_array[i].name)==0) //comparing random name with names in players_array
+    {
+        return 0;
+    }
+    
+ }
+ return 1;
+}
+int get_name_count(char* file) {
+    FILE* fp;
+    int count = 0;
+
+    fp = fopen(file, "r");
+    if (fp == NULL) {
+        printf("Error opening file.\n");
+        exit(1);
+    }
+
+    while (fscanf(fp, "%*s\n") == 0) {
+        count++;
+    }
+
+    fclose(fp);
+    return count;
+}
+
+int get_name(char* file, char* name) {
+    FILE* fp;
+    int count = get_name_count(file);
+    int random_index = rand() % count;
+    int i = 0;
+
+    fp = fopen(file, "r");
+    if (fp == NULL) {
+        printf("Error opening file.\n");
+        exit(1);
+    }
+
+    while (fscanf(fp, "%s", name) != EOF) {
+        if (i == random_index) {
+            fclose(fp);
+            return 1;
+        }
+        i++;
+    }
+
+    fclose(fp);
+    return 0;
+}
+
+void initialize( player* players_array,char *file)
 {
     char name[20];
     int i,x,y;
@@ -42,10 +97,15 @@ void initialize( player* players_array)
     for(i=0;i<num_players;i++)
     {
      player new_player;
-     printf("Enter player %d name\n",i+1);
-     scanf("%s",name);
-     strncpy(new_player.name,name,20);
      new_player.life_points=5; //each player has 5 life points at game start
+     do {
+        get_name(file,name);
+     }while(!is_name_available(name,players_array));
+     strncpy(new_player.name,name,20);
+     /*printf("Enter player %d name\n",i+1);
+     scanf("%s",name);
+     strncpy(new_player.name,name,20);*/
+     
      //Assign the player to a random square on the board 
      do {
         x = rand() % board_length;
