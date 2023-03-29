@@ -1,454 +1,460 @@
 The Battle Royale begins 
 
-Harry turn starts 
+Minnu turn starts 
 
-Harry moves to 3,2 
+Minnu moves to 2,0 
 
-The turn of Harry is over
+Minnu and Ronan will do rock-paper-scissors
+Ronan wins round 1 against Minnu
 
-Ron turn starts 
+At the end of round 1 Minnu:0 points-Ronan:1 points 
 
-Ron moves to 2,2 
+Ronan wins round 2 against Minnu
 
-Ron and Harry will do rock-paper-scissors
+At the end of round 2 Minnu:0 points-Ronan:2 points 
+
+Ronan wins the Rock-Paper-Scissors game
+
+Minnu has now 4 life points
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,2 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 0,0 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 1,0 
+
+Minnu and Ronan will do rock-paper-scissors
+Ronan wins round 1 against Minnu
+
+At the end of round 1 Minnu:0 points-Ronan:1 points 
+
+Ronan wins round 2 against Minnu
+
+At the end of round 2 Minnu:0 points-Ronan:2 points 
+
+Ronan wins the Rock-Paper-Scissors game
+
+Minnu has now 3 life points
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 0,2 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 1,1 
+
+Ronan and Minnu will do rock-paper-scissors
+Minnu wins round 1 against Ronan
+
+At the end of round 1 Ronan:0 points-Minnu:1 points 
+
+Ronan wins round 2 against Minnu
+
+At the end of round 2 Ronan:1 points-Minnu:1 points 
+
+Round 3 is a tie
+
+At the end of round 3 Ronan:1 points-Minnu:1 points 
+
+Ronan wins round 4 against Minnu
+
+At the end of round 4 Ronan:2 points-Minnu:1 points 
+
+Ronan wins the Rock-Paper-Scissors game
+
+Minnu has now 2 life points
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 2,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,1 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 0,2 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 1,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 2,1 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 3,2 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 3,1 
+
+Minnu and Ronan will do rock-paper-scissors
 Round 1 is a tie
 
-At the end of round 1 Ron:0 points-Harry:0 points 
+At the end of round 1 Minnu:0 points-Ronan:0 points 
 
-Ron wins round 2 against Harry
+Minnu wins round 2 against Ronan
 
-At the end of round 2 Ron:1 points-Harry:0 points 
-
-Round 3 is a tie
-
-At the end of round 3 Ron:1 points-Harry:0 points 
-
-Ron wins round 4 against Harry
-
-At the end of round 4 Ron:2 points-Harry:0 points 
-
-Ron wins the Rock-Paper-Scissors game
-
-Harry has now 4 life points
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 3,1 
-
-Hermione and Harry will do rock-paper-scissors
-Round 1 is a tie
-
-At the end of round 1 Hermione:0 points-Harry:0 points 
-
-Hermione wins round 2 against Harry
-
-At the end of round 2 Hermione:1 points-Harry:0 points 
+At the end of round 2 Minnu:1 points-Ronan:0 points 
 
 Round 3 is a tie
 
-At the end of round 3 Hermione:1 points-Harry:0 points 
-
-Hermione wins round 4 against Harry
-
-At the end of round 4 Hermione:2 points-Harry:0 points 
-
-Hermione wins the Rock-Paper-Scissors game
-
-Harry has now 3 life points
-
-The turn of Hermione is over
-
-Harry turn starts 
-
-Harry moves to 0,2 
-
-The turn of Harry is over
-
-Ron turn starts 
-
-Ron moves to 1,0 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 1,1 
-
-Hermione and Ron will do rock-paper-scissors
-Hermione wins round 1 against Ron
-
-At the end of round 1 Hermione:1 points-Ron:0 points 
-
-Round 2 is a tie
-
-At the end of round 2 Hermione:1 points-Ron:0 points 
-
-Round 3 is a tie
-
-At the end of round 3 Hermione:1 points-Ron:0 points 
-
-Ron wins round 4 against Hermione
-
-At the end of round 4 Hermione:1 points-Ron:1 points 
-
-Ron wins round 5 against Hermione
-
-At the end of round 5 Hermione:1 points-Ron:2 points 
-
-Ron wins the Rock-Paper-Scissors game
-
-Hermione has now 4 life points
-
-The turn of Hermione is over
-
-Harry turn starts 
-
-Harry moves to 2,1 
-
-Harry and Hermione will do rock-paper-scissors
-Hermione wins round 1 against Harry
-
-At the end of round 1 Harry:0 points-Hermione:1 points 
-
-Hermione wins round 2 against Harry
-
-At the end of round 2 Harry:0 points-Hermione:2 points 
-
-Hermione wins the Rock-Paper-Scissors game
-
-Harry has now 2 life points
-
-The turn of Harry is over
-
-Ron turn starts 
-
-Ron moves to 0,2 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 2,0 
-
-Hermione and Harry will do rock-paper-scissors
-Round 1 is a tie
-
-At the end of round 1 Hermione:0 points-Harry:0 points 
-
-Harry wins round 2 against Hermione
-
-At the end of round 2 Hermione:0 points-Harry:1 points 
-
-Hermione wins round 3 against Harry
-
-At the end of round 3 Hermione:1 points-Harry:1 points 
-
-Harry wins round 4 against Hermione
-
-At the end of round 4 Hermione:1 points-Harry:2 points 
-
-Harry wins the Rock-Paper-Scissors game
-
-Hermione has now 3 life points
-
-The turn of Hermione is over
-
-Harry turn starts 
-
-Harry moves to 1,0 
-
-Harry and Hermione will do rock-paper-scissors
-Round 1 is a tie
-
-At the end of round 1 Harry:0 points-Hermione:0 points 
-
-Hermione wins round 2 against Harry
-
-At the end of round 2 Harry:0 points-Hermione:1 points 
-
-Round 3 is a tie
-
-At the end of round 3 Harry:0 points-Hermione:1 points 
-
-Hermione wins round 4 against Harry
-
-At the end of round 4 Harry:0 points-Hermione:2 points 
-
-Hermione wins the Rock-Paper-Scissors game
-
-Harry has now 1 life points
-
-The turn of Harry is over
-
-Ron turn starts 
-
-Ron moves to 3,2 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 1,1 
-
-Hermione and Harry will do rock-paper-scissors
-Harry wins round 1 against Hermione
-
-At the end of round 1 Hermione:0 points-Harry:1 points 
-
-Round 2 is a tie
-
-At the end of round 2 Hermione:0 points-Harry:1 points 
-
-Hermione wins round 3 against Harry
-
-At the end of round 3 Hermione:1 points-Harry:1 points 
-
-Hermione wins round 4 against Harry
-
-At the end of round 4 Hermione:2 points-Harry:1 points 
-
-Hermione wins the Rock-Paper-Scissors game
-
-Harry has now 0 life points
-
-Harry died 
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 0,0 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 2,0 
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 3,2 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 3,1 
-
-Hermione and Ron will do rock-paper-scissors
-Ron wins round 1 against Hermione
-
-At the end of round 1 Hermione:0 points-Ron:1 points 
-
-Round 2 is a tie
-
-At the end of round 2 Hermione:0 points-Ron:1 points 
-
-Ron wins round 3 against Hermione
-
-At the end of round 3 Hermione:0 points-Ron:2 points 
-
-Ron wins the Rock-Paper-Scissors game
-
-Hermione has now 2 life points
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 1,1 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 3,0 
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 2,0 
-
-Ron and Hermione will do rock-paper-scissors
-Hermione wins round 1 against Ron
-
-At the end of round 1 Ron:0 points-Hermione:1 points 
-
-Ron wins round 2 against Hermione
-
-At the end of round 2 Ron:1 points-Hermione:1 points 
-
-Round 3 is a tie
-
-At the end of round 3 Ron:1 points-Hermione:1 points 
-
-Ron wins round 4 against Hermione
-
-At the end of round 4 Ron:2 points-Hermione:1 points 
-
-Ron wins the Rock-Paper-Scissors game
-
-Hermione has now 1 life points
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 1,1 
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 3,0 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 1,2 
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 0,0 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 2,1 
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 1,1 
-
-Ron and Hermione will do rock-paper-scissors
-Hermione wins round 1 against Ron
-
-At the end of round 1 Ron:0 points-Hermione:1 points 
-
-Round 2 is a tie
-
-At the end of round 2 Ron:0 points-Hermione:1 points 
-
-Hermione wins round 3 against Ron
-
-At the end of round 3 Ron:0 points-Hermione:2 points 
-
-Hermione wins the Rock-Paper-Scissors game
-
-Ron has now 4 life points
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 3,2 
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 0,2 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 1,0 
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 3,2 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 0,2 
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 2,1 
-
-The turn of Ron is over
-
-Hermione turn starts 
-
-Hermione moves to 1,1 
-
-Hermione and Ron will do rock-paper-scissors
-Hermione wins round 1 against Ron
-
-At the end of round 1 Hermione:1 points-Ron:0 points 
-
-Round 2 is a tie
-
-At the end of round 2 Hermione:1 points-Ron:0 points 
-
-Round 3 is a tie
-
-At the end of round 3 Hermione:1 points-Ron:0 points 
-
-Ron wins round 4 against Hermione
-
-At the end of round 4 Hermione:1 points-Ron:1 points 
-
-Hermione wins round 5 against Ron
-
-At the end of round 5 Hermione:2 points-Ron:1 points 
-
-Hermione wins the Rock-Paper-Scissors game
-
-Ron has now 3 life points
-
-The turn of Hermione is over
-
-Ron turn starts 
-
-Ron moves to 1,0 
-
-Ron and Hermione will do rock-paper-scissors
-Ron wins round 1 against Hermione
-
-At the end of round 1 Ron:1 points-Hermione:0 points 
-
-Hermione wins round 2 against Ron
-
-At the end of round 2 Ron:1 points-Hermione:1 points 
-
-Round 3 is a tie
-
-At the end of round 3 Ron:1 points-Hermione:1 points 
+At the end of round 3 Minnu:1 points-Ronan:0 points 
 
 Round 4 is a tie
 
-At the end of round 4 Ron:1 points-Hermione:1 points 
+At the end of round 4 Minnu:1 points-Ronan:0 points 
 
-Ron wins round 5 against Hermione
+Ronan wins round 5 against Minnu
 
-At the end of round 5 Ron:2 points-Hermione:1 points 
+At the end of round 5 Minnu:1 points-Ronan:1 points 
 
-Ron wins the Rock-Paper-Scissors game
+Round 6 is a tie
 
-Hermione has now 0 life points
+At the end of round 6 Minnu:1 points-Ronan:1 points 
 
-Hermione died 
+Round 7 is a tie
 
-The turn of Ron is over
+At the end of round 7 Minnu:1 points-Ronan:1 points 
 
-Ron wins the Battle Royale 
+Round 8 is a tie
+
+At the end of round 8 Minnu:1 points-Ronan:1 points 
+
+Minnu wins round 9 against Ronan
+
+At the end of round 9 Minnu:2 points-Ronan:1 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Ronan has now 4 life points
+
+Minnu and Cuckoo will do rock-paper-scissors
+Minnu wins round 1 against Cuckoo
+
+At the end of round 1 Minnu:1 points-Cuckoo:0 points 
+
+Round 2 is a tie
+
+At the end of round 2 Minnu:1 points-Cuckoo:0 points 
+
+Minnu wins round 3 against Cuckoo
+
+At the end of round 3 Minnu:2 points-Cuckoo:0 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Cuckoo has now 4 life points
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,2 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 1,0 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 1,1 
+
+Minnu and Cuckoo will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Minnu:0 points-Cuckoo:0 points 
+
+Minnu wins round 2 against Cuckoo
+
+At the end of round 2 Minnu:1 points-Cuckoo:0 points 
+
+Cuckoo wins round 3 against Minnu
+
+At the end of round 3 Minnu:1 points-Cuckoo:1 points 
+
+Minnu wins round 4 against Cuckoo
+
+At the end of round 4 Minnu:2 points-Cuckoo:1 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Cuckoo has now 3 life points
+
+Minnu and Ronan will do rock-paper-scissors
+Minnu wins round 1 against Ronan
+
+At the end of round 1 Minnu:1 points-Ronan:0 points 
+
+Round 2 is a tie
+
+At the end of round 2 Minnu:1 points-Ronan:0 points 
+
+Round 3 is a tie
+
+At the end of round 3 Minnu:1 points-Ronan:0 points 
+
+Minnu wins round 4 against Ronan
+
+At the end of round 4 Minnu:2 points-Ronan:0 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Ronan has now 3 life points
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 0,0 
+
+Cuckoo and Ronan will do rock-paper-scissors
+Cuckoo wins round 1 against Ronan
+
+At the end of round 1 Cuckoo:1 points-Ronan:0 points 
+
+Cuckoo wins round 2 against Ronan
+
+At the end of round 2 Cuckoo:2 points-Ronan:0 points 
+
+Cuckoo wins the Rock-Paper-Scissors game
+
+Ronan has now 2 life points
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 0,1 
+
+Ronan and Minnu will do rock-paper-scissors
+Minnu wins round 1 against Ronan
+
+At the end of round 1 Ronan:0 points-Minnu:1 points 
+
+Minnu wins round 2 against Ronan
+
+At the end of round 2 Ronan:0 points-Minnu:2 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Ronan has now 1 life points
+
+Ronan and Cuckoo will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Ronan:0 points-Cuckoo:0 points 
+
+Round 2 is a tie
+
+At the end of round 2 Ronan:0 points-Cuckoo:0 points 
+
+Ronan wins round 3 against Cuckoo
+
+At the end of round 3 Ronan:1 points-Cuckoo:0 points 
+
+Cuckoo wins round 4 against Ronan
+
+At the end of round 4 Ronan:1 points-Cuckoo:1 points 
+
+Cuckoo wins round 5 against Ronan
+
+At the end of round 5 Ronan:1 points-Cuckoo:2 points 
+
+Cuckoo wins the Rock-Paper-Scissors game
+
+Ronan has now 0 life points
+
+Ronan died 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 2,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,2 
+
+Cuckoo and Minnu will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Cuckoo:0 points-Minnu:0 points 
+
+Round 2 is a tie
+
+At the end of round 2 Cuckoo:0 points-Minnu:0 points 
+
+Round 3 is a tie
+
+At the end of round 3 Cuckoo:0 points-Minnu:0 points 
+
+Minnu wins round 4 against Cuckoo
+
+At the end of round 4 Cuckoo:0 points-Minnu:1 points 
+
+Minnu wins round 5 against Cuckoo
+
+At the end of round 5 Cuckoo:0 points-Minnu:2 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Cuckoo has now 2 life points
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 1,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 2,2 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 2,1 
+
+Minnu and Cuckoo will do rock-paper-scissors
+Cuckoo wins round 1 against Minnu
+
+At the end of round 1 Minnu:0 points-Cuckoo:1 points 
+
+Cuckoo wins round 2 against Minnu
+
+At the end of round 2 Minnu:0 points-Cuckoo:2 points 
+
+Cuckoo wins the Rock-Paper-Scissors game
+
+Minnu has now 1 life points
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,0 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 3,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 0,1 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 2,1 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,1 
+
+Cuckoo and Minnu will do rock-paper-scissors
+Minnu wins round 1 against Cuckoo
+
+At the end of round 1 Cuckoo:0 points-Minnu:1 points 
+
+Minnu wins round 2 against Cuckoo
+
+At the end of round 2 Cuckoo:0 points-Minnu:2 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Cuckoo has now 1 life points
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 0,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 2,1 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 1,1 
+
+Minnu and Cuckoo will do rock-paper-scissors
+Cuckoo wins round 1 against Minnu
+
+At the end of round 1 Minnu:0 points-Cuckoo:1 points 
+
+Minnu wins round 2 against Cuckoo
+
+At the end of round 2 Minnu:1 points-Cuckoo:1 points 
+
+Cuckoo wins round 3 against Minnu
+
+At the end of round 3 Minnu:1 points-Cuckoo:2 points 
+
+Cuckoo wins the Rock-Paper-Scissors game
+
+Minnu has now 0 life points
+
+Minnu died 
+
+The turn of Cuckoo is over
+
+Cuckoo wins the Battle Royale 
 

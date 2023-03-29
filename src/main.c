@@ -36,7 +36,8 @@ int main(int argc, char *argv[]) {
             current_player=0;  
         }
     }while(num_players>1); //game condition is to play till there is only one person left
-
+    printf("The final board status is \n");
+    display_board(players_array);
     sprintf(message,"%s wins the Battle Royale \n",players_array[0].name);
     log_action(message);
     free(players_array);

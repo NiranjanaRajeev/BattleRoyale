@@ -76,6 +76,8 @@ void move_player(int index,player *players_array)
     players_array[index].y=new_y;
     sprintf(message,"%s moves to %d,%d \n",players_array[index].name,players_array[index].x,players_array[index].y);
     log_action(message);
+    printf("The current board status is : \n");
+    display_board(players_array);
 }
 
 int find_player_index(int x, int y, player *players_array)
@@ -88,6 +90,36 @@ int find_player_index(int x, int y, player *players_array)
         }
     }
     return -1;
+}
+
+void display_board(player *players_array)
+{
+    for (int i = 0; i < board_width; i++) {
+        for (int j = 0; j < board_length; j++) {
+            printf("+---"); // Print top edge of cell
+        }
+        printf("+\n"); // End of row, print right edge of last cell
+
+        for (int j = 0; j < board_length; j++) {
+            if(is_tile_available(j,i,players_array))
+            {
+            printf("|   "); // Print left and right edges of cell, with empty space in the middle
+            }
+            else
+            {
+                int index = find_player_index(j,i,players_array);
+                char initial = players_array[index].name[0];
+                printf("| %c ",initial); // Print left and right edges of cell, with empty space in the middle
+                
+            }
+        }
+        printf("|\n"); // End of row, print right edge of last cell
+    }
+
+    for (int j = 0; j < board_length; j++) {
+        printf("+---"); // Print bottom edge of last row of cells
+    }
+    printf("+\n"); // End of board, print right edge of last cell
 }
 
 void fight(int enemy_index,int player_index,player *players_array)

@@ -22,4 +22,4 @@ int find_player_index(int x, int y, player *players_array);//find player index f
 void check_adjacent_tiles(int index, player *players_array);//check adjacent tiles
 void fight(int enemy_index, int player_index, player *players_array); // fight and the first who wins two times wins the fight, the other loses hp
 void delete_player(int index, player *players_array); //To delete a player from the array
-//void display_board( player *players_array); //To display the board   
+void display_board( player *players_array); //To display the board   
