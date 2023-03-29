@@ -37,10 +37,15 @@ int is_name_available(char *name,player *players_array)
  for(int i=0;i<num_players;i++)
  {  
     
-    if(strcmp(name,players_array[i].name)==0) //comparing random name with names in players_array
+    /*if(strcmp(name,players_array[i].name)==0) //comparing random name with names in players_array
+    {
+        return 0;
+    }*/
+    if(name[0]==players_array[i].name[0])
     {
         return 0;
     }
+
     
  }
  return 1;
