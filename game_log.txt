@@ -2,51 +2,161 @@ The Battle Royale begins
 
 Minnu turn starts 
 
-Minnu moves to 2,0 
-
-Minnu and Ronan will do rock-paper-scissors
-Ronan wins round 1 against Minnu
-
-At the end of round 1 Minnu:0 points-Ronan:1 points 
-
-Ronan wins round 2 against Minnu
-
-At the end of round 2 Minnu:0 points-Ronan:2 points 
-
-Ronan wins the Rock-Paper-Scissors game
-
-Minnu has now 4 life points
+Minnu moves to 2,4 
 
 The turn of Minnu is over
 
 Cuckoo turn starts 
 
-Cuckoo moves to 1,2 
+Cuckoo moves to 3,2 
 
 The turn of Cuckoo is over
 
 Ronan turn starts 
 
-Ronan moves to 0,0 
+Ronan moves to 1,1 
 
 The turn of Ronan is over
 
 Minnu turn starts 
 
-Minnu moves to 1,0 
+Minnu moves to 2,3 
 
-Minnu and Ronan will do rock-paper-scissors
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 2,0 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 3,3 
+
+Ronan and Minnu will do rock-paper-scissors
 Ronan wins round 1 against Minnu
 
-At the end of round 1 Minnu:0 points-Ronan:1 points 
+At the end of round 1 Ronan:1 points-Minnu:0 points 
 
-Ronan wins round 2 against Minnu
+Round 2 is a tie
 
-At the end of round 2 Minnu:0 points-Ronan:2 points 
+At the end of round 2 Ronan:1 points-Minnu:0 points 
+
+Minnu wins round 3 against Ronan
+
+At the end of round 3 Ronan:1 points-Minnu:1 points 
+
+Ronan wins round 4 against Minnu
+
+At the end of round 4 Ronan:2 points-Minnu:1 points 
 
 Ronan wins the Rock-Paper-Scissors game
 
+Minnu has now 4 life points
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 2,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,4 
+
+Cuckoo and Ronan will do rock-paper-scissors
+Cuckoo wins round 1 against Ronan
+
+At the end of round 1 Cuckoo:1 points-Ronan:0 points 
+
+Cuckoo wins round 2 against Ronan
+
+At the end of round 2 Cuckoo:2 points-Ronan:0 points 
+
+Cuckoo wins the Rock-Paper-Scissors game
+
+Ronan has now 4 life points
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 5,1 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 1,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 4,3 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 3,2 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 4,4 
+
+Minnu and Cuckoo will do rock-paper-scissors
+Minnu wins round 1 against Cuckoo
+
+At the end of round 1 Minnu:1 points-Cuckoo:0 points 
+
+Cuckoo wins round 2 against Minnu
+
+At the end of round 2 Minnu:1 points-Cuckoo:1 points 
+
+Cuckoo wins round 3 against Minnu
+
+At the end of round 3 Minnu:1 points-Cuckoo:2 points 
+
+Cuckoo wins the Rock-Paper-Scissors game
+
 Minnu has now 3 life points
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,1 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 4,0 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 4,1 
+
+Minnu and Ronan will do rock-paper-scissors
+Minnu wins round 1 against Ronan
+
+At the end of round 1 Minnu:1 points-Ronan:0 points 
+
+Minnu wins round 2 against Ronan
+
+At the end of round 2 Minnu:2 points-Ronan:0 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Ronan has now 3 life points
 
 The turn of Minnu is over
 
@@ -58,28 +168,7 @@ The turn of Cuckoo is over
 
 Ronan turn starts 
 
-Ronan moves to 1,1 
-
-Ronan and Minnu will do rock-paper-scissors
-Minnu wins round 1 against Ronan
-
-At the end of round 1 Ronan:0 points-Minnu:1 points 
-
-Ronan wins round 2 against Minnu
-
-At the end of round 2 Ronan:1 points-Minnu:1 points 
-
-Round 3 is a tie
-
-At the end of round 3 Ronan:1 points-Minnu:1 points 
-
-Ronan wins round 4 against Minnu
-
-At the end of round 4 Ronan:2 points-Minnu:1 points 
-
-Ronan wins the Rock-Paper-Scissors game
-
-Minnu has now 2 life points
+Ronan moves to 5,2 
 
 The turn of Ronan is over
 
@@ -97,214 +186,153 @@ The turn of Cuckoo is over
 
 Ronan turn starts 
 
-Ronan moves to 0,2 
+Ronan moves to 3,4 
 
 The turn of Ronan is over
 
 Minnu turn starts 
 
-Minnu moves to 1,0 
+Minnu moves to 5,1 
 
 The turn of Minnu is over
 
 Cuckoo turn starts 
 
-Cuckoo moves to 2,1 
+Cuckoo moves to 2,4 
 
-The turn of Cuckoo is over
-
-Ronan turn starts 
-
-Ronan moves to 3,2 
-
-The turn of Ronan is over
-
-Minnu turn starts 
-
-Minnu moves to 3,1 
-
-Minnu and Ronan will do rock-paper-scissors
+Cuckoo and Ronan will do rock-paper-scissors
 Round 1 is a tie
 
-At the end of round 1 Minnu:0 points-Ronan:0 points 
-
-Minnu wins round 2 against Ronan
-
-At the end of round 2 Minnu:1 points-Ronan:0 points 
-
-Round 3 is a tie
-
-At the end of round 3 Minnu:1 points-Ronan:0 points 
-
-Round 4 is a tie
-
-At the end of round 4 Minnu:1 points-Ronan:0 points 
-
-Ronan wins round 5 against Minnu
-
-At the end of round 5 Minnu:1 points-Ronan:1 points 
-
-Round 6 is a tie
-
-At the end of round 6 Minnu:1 points-Ronan:1 points 
-
-Round 7 is a tie
-
-At the end of round 7 Minnu:1 points-Ronan:1 points 
-
-Round 8 is a tie
-
-At the end of round 8 Minnu:1 points-Ronan:1 points 
-
-Minnu wins round 9 against Ronan
-
-At the end of round 9 Minnu:2 points-Ronan:1 points 
-
-Minnu wins the Rock-Paper-Scissors game
-
-Ronan has now 4 life points
-
-Minnu and Cuckoo will do rock-paper-scissors
-Minnu wins round 1 against Cuckoo
-
-At the end of round 1 Minnu:1 points-Cuckoo:0 points 
+At the end of round 1 Cuckoo:0 points-Ronan:0 points 
 
 Round 2 is a tie
 
-At the end of round 2 Minnu:1 points-Cuckoo:0 points 
+At the end of round 2 Cuckoo:0 points-Ronan:0 points 
 
-Minnu wins round 3 against Cuckoo
+Cuckoo wins round 3 against Ronan
 
-At the end of round 3 Minnu:2 points-Cuckoo:0 points 
+At the end of round 3 Cuckoo:1 points-Ronan:0 points 
 
-Minnu wins the Rock-Paper-Scissors game
+Ronan wins round 4 against Cuckoo
+
+At the end of round 4 Cuckoo:1 points-Ronan:1 points 
+
+Ronan wins round 5 against Cuckoo
+
+At the end of round 5 Cuckoo:1 points-Ronan:2 points 
+
+Ronan wins the Rock-Paper-Scissors game
 
 Cuckoo has now 4 life points
 
-The turn of Minnu is over
-
-Cuckoo turn starts 
-
-Cuckoo moves to 1,2 
-
 The turn of Cuckoo is over
 
 Ronan turn starts 
 
-Ronan moves to 1,0 
+Ronan moves to 4,3 
 
 The turn of Ronan is over
 
 Minnu turn starts 
 
-Minnu moves to 1,1 
-
-Minnu and Cuckoo will do rock-paper-scissors
-Round 1 is a tie
-
-At the end of round 1 Minnu:0 points-Cuckoo:0 points 
-
-Minnu wins round 2 against Cuckoo
-
-At the end of round 2 Minnu:1 points-Cuckoo:0 points 
-
-Cuckoo wins round 3 against Minnu
-
-At the end of round 3 Minnu:1 points-Cuckoo:1 points 
-
-Minnu wins round 4 against Cuckoo
-
-At the end of round 4 Minnu:2 points-Cuckoo:1 points 
-
-Minnu wins the Rock-Paper-Scissors game
-
-Cuckoo has now 3 life points
-
-Minnu and Ronan will do rock-paper-scissors
-Minnu wins round 1 against Ronan
-
-At the end of round 1 Minnu:1 points-Ronan:0 points 
-
-Round 2 is a tie
-
-At the end of round 2 Minnu:1 points-Ronan:0 points 
-
-Round 3 is a tie
-
-At the end of round 3 Minnu:1 points-Ronan:0 points 
-
-Minnu wins round 4 against Ronan
-
-At the end of round 4 Minnu:2 points-Ronan:0 points 
-
-Minnu wins the Rock-Paper-Scissors game
-
-Ronan has now 3 life points
+Minnu moves to 3,2 
 
 The turn of Minnu is over
 
 Cuckoo turn starts 
 
-Cuckoo moves to 0,0 
-
-Cuckoo and Ronan will do rock-paper-scissors
-Cuckoo wins round 1 against Ronan
-
-At the end of round 1 Cuckoo:1 points-Ronan:0 points 
-
-Cuckoo wins round 2 against Ronan
-
-At the end of round 2 Cuckoo:2 points-Ronan:0 points 
-
-Cuckoo wins the Rock-Paper-Scissors game
-
-Ronan has now 2 life points
+Cuckoo moves to 0,4 
 
 The turn of Cuckoo is over
 
 Ronan turn starts 
 
-Ronan moves to 0,1 
+Ronan moves to 2,4 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 3,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,3 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 1,3 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 2,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,0 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 5,1 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 1,3 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 0,2 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 3,3 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 5,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 5,2 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 4,0 
 
 Ronan and Minnu will do rock-paper-scissors
-Minnu wins round 1 against Ronan
+Ronan wins round 1 against Minnu
 
-At the end of round 1 Ronan:0 points-Minnu:1 points 
+At the end of round 1 Ronan:1 points-Minnu:0 points 
 
-Minnu wins round 2 against Ronan
+Ronan wins round 2 against Minnu
 
-At the end of round 2 Ronan:0 points-Minnu:2 points 
+At the end of round 2 Ronan:2 points-Minnu:0 points 
 
-Minnu wins the Rock-Paper-Scissors game
+Ronan wins the Rock-Paper-Scissors game
 
-Ronan has now 1 life points
-
-Ronan and Cuckoo will do rock-paper-scissors
-Round 1 is a tie
-
-At the end of round 1 Ronan:0 points-Cuckoo:0 points 
-
-Round 2 is a tie
-
-At the end of round 2 Ronan:0 points-Cuckoo:0 points 
-
-Ronan wins round 3 against Cuckoo
-
-At the end of round 3 Ronan:1 points-Cuckoo:0 points 
-
-Cuckoo wins round 4 against Ronan
-
-At the end of round 4 Ronan:1 points-Cuckoo:1 points 
-
-Cuckoo wins round 5 against Ronan
-
-At the end of round 5 Ronan:1 points-Cuckoo:2 points 
-
-Cuckoo wins the Rock-Paper-Scissors game
-
-Ronan has now 0 life points
-
-Ronan died 
+Minnu has now 2 life points
 
 The turn of Ronan is over
 
@@ -323,52 +351,89 @@ Round 1 is a tie
 
 At the end of round 1 Cuckoo:0 points-Minnu:0 points 
 
-Round 2 is a tie
+Cuckoo wins round 2 against Minnu
 
-At the end of round 2 Cuckoo:0 points-Minnu:0 points 
+At the end of round 2 Cuckoo:1 points-Minnu:0 points 
 
-Round 3 is a tie
+Minnu wins round 3 against Cuckoo
 
-At the end of round 3 Cuckoo:0 points-Minnu:0 points 
+At the end of round 3 Cuckoo:1 points-Minnu:1 points 
 
-Minnu wins round 4 against Cuckoo
+Round 4 is a tie
 
-At the end of round 4 Cuckoo:0 points-Minnu:1 points 
+At the end of round 4 Cuckoo:1 points-Minnu:1 points 
 
 Minnu wins round 5 against Cuckoo
 
-At the end of round 5 Cuckoo:0 points-Minnu:2 points 
+At the end of round 5 Cuckoo:1 points-Minnu:2 points 
 
 Minnu wins the Rock-Paper-Scissors game
 
-Cuckoo has now 2 life points
+Cuckoo has now 3 life points
 
 The turn of Cuckoo is over
 
+Ronan turn starts 
+
+Ronan moves to 5,4 
+
+The turn of Ronan is over
+
 Minnu turn starts 
 
-Minnu moves to 1,0 
+Minnu moves to 4,4 
+
+Minnu and Ronan will do rock-paper-scissors
+Minnu wins round 1 against Ronan
+
+At the end of round 1 Minnu:1 points-Ronan:0 points 
+
+Ronan wins round 2 against Minnu
+
+At the end of round 2 Minnu:1 points-Ronan:1 points 
+
+Minnu wins round 3 against Ronan
+
+At the end of round 3 Minnu:2 points-Ronan:1 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Ronan has now 2 life points
 
 The turn of Minnu is over
 
 Cuckoo turn starts 
 
-Cuckoo moves to 2,2 
+Cuckoo moves to 1,1 
 
 The turn of Cuckoo is over
 
+Ronan turn starts 
+
+Ronan moves to 3,0 
+
+The turn of Ronan is over
+
 Minnu turn starts 
 
-Minnu moves to 2,1 
+Minnu moves to 0,1 
 
 Minnu and Cuckoo will do rock-paper-scissors
 Cuckoo wins round 1 against Minnu
 
 At the end of round 1 Minnu:0 points-Cuckoo:1 points 
 
-Cuckoo wins round 2 against Minnu
+Round 2 is a tie
 
-At the end of round 2 Minnu:0 points-Cuckoo:2 points 
+At the end of round 2 Minnu:0 points-Cuckoo:1 points 
+
+Minnu wins round 3 against Cuckoo
+
+At the end of round 3 Minnu:1 points-Cuckoo:1 points 
+
+Cuckoo wins round 4 against Minnu
+
+At the end of round 4 Minnu:1 points-Cuckoo:2 points 
 
 Cuckoo wins the Rock-Paper-Scissors game
 
@@ -378,7 +443,93 @@ The turn of Minnu is over
 
 Cuckoo turn starts 
 
-Cuckoo moves to 1,0 
+Cuckoo moves to 2,2 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 0,2 
+
+Ronan and Minnu will do rock-paper-scissors
+Minnu wins round 1 against Ronan
+
+At the end of round 1 Ronan:0 points-Minnu:1 points 
+
+Minnu wins round 2 against Ronan
+
+At the end of round 2 Ronan:0 points-Minnu:2 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Ronan has now 1 life points
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 3,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,1 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 0,4 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 5,3 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 4,0 
+
+The turn of Cuckoo is over
+
+Ronan turn starts 
+
+Ronan moves to 3,0 
+
+Ronan and Cuckoo will do rock-paper-scissors
+Ronan wins round 1 against Cuckoo
+
+At the end of round 1 Ronan:1 points-Cuckoo:0 points 
+
+Cuckoo wins round 2 against Ronan
+
+At the end of round 2 Ronan:1 points-Cuckoo:1 points 
+
+Cuckoo wins round 3 against Ronan
+
+At the end of round 3 Ronan:1 points-Cuckoo:2 points 
+
+Cuckoo wins the Rock-Paper-Scissors game
+
+Ronan has now 0 life points
+
+Ronan died 
+
+The turn of Ronan is over
+
+Minnu turn starts 
+
+Minnu moves to 0,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 5,4 
 
 The turn of Cuckoo is over
 
@@ -390,32 +541,19 @@ The turn of Minnu is over
 
 Cuckoo turn starts 
 
-Cuckoo moves to 0,1 
+Cuckoo moves to 1,2 
 
 The turn of Cuckoo is over
 
 Minnu turn starts 
 
-Minnu moves to 2,1 
+Minnu moves to 0,1 
 
 The turn of Minnu is over
 
 Cuckoo turn starts 
 
-Cuckoo moves to 1,1 
-
-Cuckoo and Minnu will do rock-paper-scissors
-Minnu wins round 1 against Cuckoo
-
-At the end of round 1 Cuckoo:0 points-Minnu:1 points 
-
-Minnu wins round 2 against Cuckoo
-
-At the end of round 2 Cuckoo:0 points-Minnu:2 points 
-
-Minnu wins the Rock-Paper-Scissors game
-
-Cuckoo has now 1 life points
+Cuckoo moves to 1,3 
 
 The turn of Cuckoo is over
 
@@ -427,7 +565,108 @@ The turn of Minnu is over
 
 Cuckoo turn starts 
 
-Cuckoo moves to 2,1 
+Cuckoo moves to 5,3 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 4,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 0,0 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 1,1 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 2,0 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 4,1 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,2 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 4,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 4,1 
+
+Cuckoo and Minnu will do rock-paper-scissors
+Minnu wins round 1 against Cuckoo
+
+At the end of round 1 Cuckoo:0 points-Minnu:1 points 
+
+Round 2 is a tie
+
+At the end of round 2 Cuckoo:0 points-Minnu:1 points 
+
+Minnu wins round 3 against Cuckoo
+
+At the end of round 3 Cuckoo:0 points-Minnu:2 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Cuckoo has now 2 life points
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 1,3 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 5,4 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 2,1 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 5,1 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 0,1 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,2 
 
 The turn of Cuckoo is over
 
@@ -436,25 +675,238 @@ Minnu turn starts
 Minnu moves to 1,1 
 
 Minnu and Cuckoo will do rock-paper-scissors
-Cuckoo wins round 1 against Minnu
+Minnu wins round 1 against Cuckoo
 
-At the end of round 1 Minnu:0 points-Cuckoo:1 points 
+At the end of round 1 Minnu:1 points-Cuckoo:0 points 
 
 Minnu wins round 2 against Cuckoo
 
-At the end of round 2 Minnu:1 points-Cuckoo:1 points 
+At the end of round 2 Minnu:2 points-Cuckoo:0 points 
 
-Cuckoo wins round 3 against Minnu
+Minnu wins the Rock-Paper-Scissors game
 
-At the end of round 3 Minnu:1 points-Cuckoo:2 points 
+Cuckoo has now 1 life points
 
-Cuckoo wins the Rock-Paper-Scissors game
+The turn of Minnu is over
 
-Minnu has now 0 life points
+Cuckoo turn starts 
 
-Minnu died 
+Cuckoo moves to 5,4 
 
 The turn of Cuckoo is over
 
-Cuckoo wins the Battle Royale 
+Minnu turn starts 
+
+Minnu moves to 0,4 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 5,3 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 0,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 5,4 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 3,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,4 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 4,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,2 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 3,1 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,4 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 1,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 5,3 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 4,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,1 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 5,1 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,3 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 2,4 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 0,1 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 3,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 5,0 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 0,0 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,0 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 0,2 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 0,4 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 5,3 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 5,0 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 1,4 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 3,0 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 5,3 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 2,3 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 5,1 
+
+The turn of Minnu is over
+
+Cuckoo turn starts 
+
+Cuckoo moves to 1,1 
+
+The turn of Cuckoo is over
+
+Minnu turn starts 
+
+Minnu moves to 0,1 
+
+Minnu and Cuckoo will do rock-paper-scissors
+Minnu wins round 1 against Cuckoo
+
+At the end of round 1 Minnu:1 points-Cuckoo:0 points 
+
+Minnu wins round 2 against Cuckoo
+
+At the end of round 2 Minnu:2 points-Cuckoo:0 points 
+
+Minnu wins the Rock-Paper-Scissors game
+
+Cuckoo has now 0 life points
+
+Cuckoo died 
+
+The turn of Minnu is over
+
+Minnu wins the Battle Royale 
 
