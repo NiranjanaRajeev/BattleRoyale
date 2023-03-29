@@ -94,18 +94,18 @@ int find_player_index(int x, int y, player *players_array)
 
 void display_board(player *players_array)
 {
-    for (int j = 0; j < board_length; j++) {
+    for (int j = 0; j < board_length; j++) {  // Print top row of Xs surrounding the board
         if(j==0){
             printf("XXXXX"); 
         }else if(j==board_length-1){
-            printf("XXXXXX\n"); // Print bottom edge of last row of cells
+            printf("XXXXXX\n"); 
         }
         else{
             printf("XXXX");
         }
     }
     for (int i = 0; i < board_width; i++) {
-        printf("X"); 
+        printf("X");   //Print an X at the start of every row
         for (int j = 0; j < board_length; j++) {
             printf("+---"); // Print top edge of cell
         }
@@ -115,7 +115,7 @@ void display_board(player *players_array)
             if(is_tile_available(j,i,players_array))
             {
                 if(j==0){
-                    printf("X|   "); 
+                    printf("X|   ");  //if available tile is a tile on left corner
                 }
                 
                 else{
@@ -126,13 +126,13 @@ void display_board(player *players_array)
                 int index = find_player_index(j,i,players_array);
                 char initial = players_array[index].name[0];
                 if(j==0){
-                    printf("X| %c ",initial); 
+                    printf("X| %c ",initial);  //if the tile with the player is on left corner
                 }else{
                     printf("| %c ",initial); // Print left and right edges of cell, with empty space in the middle
                 }
             }
         }
-        printf("|X\n"); // End of row, print right edge of last cell
+        printf("|X\n"); // End of row, print right edge of last cell with an X on the end
     }
 
     for (int j = 0; j < board_length; j++) {
@@ -142,12 +142,13 @@ void display_board(player *players_array)
             printf("+---"); // Print bottom edge of last row of cells
         }
     }
-    printf("+X\n"); // End of board, print right edge of last cell
-        for (int j = 0; j < board_length; j++) {
+    printf("+X\n"); // End of board, print right edge of last cell and give X at the end
+    
+    for (int j = 0; j < board_length; j++) { //For adding bottom edge with Xs surrounding the board
         if(j==0){
             printf("XXXXX"); 
         }else if(j==board_length-1){
-            printf("XXXXXX\n\n"); // Print bottom edge of last row of cells
+            printf("XXXXXX\n\n"); 
         }
         else{
             printf("XXXX");
