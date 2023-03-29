@@ -1,351 +1,454 @@
 The Battle Royale begins 
 
-Lapinnu turn starts 
+Harry turn starts 
 
-Lapinnu new location is 0,0 
+Harry moves to 3,2 
 
-The turn of Lapinnu is over
+The turn of Harry is over
 
-Brownie turn starts 
+Ron turn starts 
 
-Brownie new location is 0,1 
+Ron moves to 2,2 
 
-Brownie and Lapinnu will do rock-paper-scissors
+Ron and Harry will do rock-paper-scissors
 Round 1 is a tie
 
-At the end of round 1 Brownie:0 points-Lapinnu:0 points 
+At the end of round 1 Ron:0 points-Harry:0 points 
 
-Lapinnu wins round 2 against Brownie
+Ron wins round 2 against Harry
 
-At the end of round 2 Brownie:0 points-Lapinnu:1 points 
-
-Brownie wins round 3 against Lapinnu
-
-At the end of round 3 Brownie:1 points-Lapinnu:1 points 
-
-Brownie wins round 4 against Lapinnu
-
-At the end of round 4 Brownie:2 points-Lapinnu:1 points 
-
-Brownie wins the Rock-Paper-Scissors game
-
-Lapinnu has now 4 life points
-
-The turn of Brownie is over
-
-Romy turn starts 
-
-Romy new location is 2,0 
-
-The turn of Romy is over
-
-Lapinnu turn starts 
-
-Lapinnu new location is 0,2 
-
-Lapinnu and Brownie will do rock-paper-scissors
-Brownie wins round 1 against Lapinnu
-
-At the end of round 1 Lapinnu:0 points-Brownie:1 points 
-
-Brownie wins round 2 against Lapinnu
-
-At the end of round 2 Lapinnu:0 points-Brownie:2 points 
-
-Brownie wins the Rock-Paper-Scissors game
-
-Lapinnu has now 3 life points
-
-The turn of Lapinnu is over
-
-Brownie turn starts 
-
-Brownie new location is 1,0 
-
-Brownie and Romy will do rock-paper-scissors
-Round 1 is a tie
-
-At the end of round 1 Brownie:0 points-Romy:0 points 
-
-Brownie wins round 2 against Romy
-
-At the end of round 2 Brownie:1 points-Romy:0 points 
+At the end of round 2 Ron:1 points-Harry:0 points 
 
 Round 3 is a tie
 
-At the end of round 3 Brownie:1 points-Romy:0 points 
+At the end of round 3 Ron:1 points-Harry:0 points 
 
-Round 4 is a tie
+Ron wins round 4 against Harry
 
-At the end of round 4 Brownie:1 points-Romy:0 points 
+At the end of round 4 Ron:2 points-Harry:0 points 
 
-Romy wins round 5 against Brownie
+Ron wins the Rock-Paper-Scissors game
 
-At the end of round 5 Brownie:1 points-Romy:1 points 
+Harry has now 4 life points
 
-Round 6 is a tie
+The turn of Ron is over
 
-At the end of round 6 Brownie:1 points-Romy:1 points 
+Hermione turn starts 
 
-Romy wins round 7 against Brownie
+Hermione moves to 3,1 
 
-At the end of round 7 Brownie:1 points-Romy:2 points 
-
-Romy wins the Rock-Paper-Scissors game
-
-Brownie has now 4 life points
-
-The turn of Brownie is over
-
-Romy turn starts 
-
-Romy new location is 3,1 
-
-The turn of Romy is over
-
-Lapinnu turn starts 
-
-Lapinnu new location is 0,1 
-
-The turn of Lapinnu is over
-
-Brownie turn starts 
-
-Brownie new location is 2,0 
-
-The turn of Brownie is over
-
-Romy turn starts 
-
-Romy new location is 0,2 
-
-Romy and Lapinnu will do rock-paper-scissors
-Romy wins round 1 against Lapinnu
-
-At the end of round 1 Romy:1 points-Lapinnu:0 points 
-
-Round 2 is a tie
-
-At the end of round 2 Romy:1 points-Lapinnu:0 points 
-
-Romy wins round 3 against Lapinnu
-
-At the end of round 3 Romy:2 points-Lapinnu:0 points 
-
-Romy wins the Rock-Paper-Scissors game
-
-Lapinnu has now 2 life points
-
-The turn of Romy is over
-
-Lapinnu turn starts 
-
-Lapinnu new location is 1,0 
-
-Lapinnu and Brownie will do rock-paper-scissors
+Hermione and Harry will do rock-paper-scissors
 Round 1 is a tie
 
-At the end of round 1 Lapinnu:0 points-Brownie:0 points 
+At the end of round 1 Hermione:0 points-Harry:0 points 
 
-Brownie wins round 2 against Lapinnu
+Hermione wins round 2 against Harry
 
-At the end of round 2 Lapinnu:0 points-Brownie:1 points 
-
-Brownie wins round 3 against Lapinnu
-
-At the end of round 3 Lapinnu:0 points-Brownie:2 points 
-
-Brownie wins the Rock-Paper-Scissors game
-
-Lapinnu has now 1 life points
-
-The turn of Lapinnu is over
-
-Brownie turn starts 
-
-Brownie new location is 3,1 
-
-The turn of Brownie is over
-
-Romy turn starts 
-
-Romy new location is 3,0 
-
-Romy and Brownie will do rock-paper-scissors
-Round 1 is a tie
-
-At the end of round 1 Romy:0 points-Brownie:0 points 
-
-Round 2 is a tie
-
-At the end of round 2 Romy:0 points-Brownie:0 points 
-
-Brownie wins round 3 against Romy
-
-At the end of round 3 Romy:0 points-Brownie:1 points 
-
-Romy wins round 4 against Brownie
-
-At the end of round 4 Romy:1 points-Brownie:1 points 
-
-Brownie wins round 5 against Romy
-
-At the end of round 5 Romy:1 points-Brownie:2 points 
-
-Brownie wins the Rock-Paper-Scissors game
-
-Romy has now 4 life points
-
-The turn of Romy is over
-
-Lapinnu turn starts 
-
-Lapinnu new location is 3,2 
-
-Lapinnu and Brownie will do rock-paper-scissors
-Brownie wins round 1 against Lapinnu
-
-At the end of round 1 Lapinnu:0 points-Brownie:1 points 
-
-Lapinnu wins round 2 against Brownie
-
-At the end of round 2 Lapinnu:1 points-Brownie:1 points 
+At the end of round 2 Hermione:1 points-Harry:0 points 
 
 Round 3 is a tie
 
-At the end of round 3 Lapinnu:1 points-Brownie:1 points 
+At the end of round 3 Hermione:1 points-Harry:0 points 
 
-Lapinnu wins round 4 against Brownie
+Hermione wins round 4 against Harry
 
-At the end of round 4 Lapinnu:2 points-Brownie:1 points 
+At the end of round 4 Hermione:2 points-Harry:0 points 
 
-Lapinnu wins the Rock-Paper-Scissors game
+Hermione wins the Rock-Paper-Scissors game
 
-Brownie has now 3 life points
+Harry has now 3 life points
 
-The turn of Lapinnu is over
+The turn of Hermione is over
 
-Brownie turn starts 
+Harry turn starts 
 
-Brownie new location is 2,0 
+Harry moves to 0,2 
 
-Brownie and Romy will do rock-paper-scissors
-Romy wins round 1 against Brownie
+The turn of Harry is over
 
-At the end of round 1 Brownie:0 points-Romy:1 points 
+Ron turn starts 
 
-Romy wins round 2 against Brownie
+Ron moves to 1,0 
 
-At the end of round 2 Brownie:0 points-Romy:2 points 
+The turn of Ron is over
 
-Romy wins the Rock-Paper-Scissors game
+Hermione turn starts 
 
-Brownie has now 2 life points
+Hermione moves to 1,1 
 
-The turn of Brownie is over
+Hermione and Ron will do rock-paper-scissors
+Hermione wins round 1 against Ron
 
-Romy turn starts 
-
-Romy new location is 0,1 
-
-The turn of Romy is over
-
-Lapinnu turn starts 
-
-Lapinnu new location is 2,1 
-
-Lapinnu and Brownie will do rock-paper-scissors
-Round 1 is a tie
-
-At the end of round 1 Lapinnu:0 points-Brownie:0 points 
-
-Brownie wins round 2 against Lapinnu
-
-At the end of round 2 Lapinnu:0 points-Brownie:1 points 
-
-Lapinnu wins round 3 against Brownie
-
-At the end of round 3 Lapinnu:1 points-Brownie:1 points 
-
-Round 4 is a tie
-
-At the end of round 4 Lapinnu:1 points-Brownie:1 points 
-
-Lapinnu wins round 5 against Brownie
-
-At the end of round 5 Lapinnu:2 points-Brownie:1 points 
-
-Lapinnu wins the Rock-Paper-Scissors game
-
-Brownie has now 1 life points
-
-The turn of Lapinnu is over
-
-Brownie turn starts 
-
-Brownie new location is 0,2 
-
-Brownie and Romy will do rock-paper-scissors
-Romy wins round 1 against Brownie
-
-At the end of round 1 Brownie:0 points-Romy:1 points 
+At the end of round 1 Hermione:1 points-Ron:0 points 
 
 Round 2 is a tie
 
-At the end of round 2 Brownie:0 points-Romy:1 points 
-
-Brownie wins round 3 against Romy
-
-At the end of round 3 Brownie:1 points-Romy:1 points 
-
-Round 4 is a tie
-
-At the end of round 4 Brownie:1 points-Romy:1 points 
-
-Romy wins round 5 against Brownie
-
-At the end of round 5 Brownie:1 points-Romy:2 points 
-
-Romy wins the Rock-Paper-Scissors game
-
-Brownie has now 0 life points
-
-Brownie died 
-
-The turn of Romy is over
-
-Lapinnu turn starts 
-
-Lapinnu new location is 0,2 
-
-Lapinnu and Romy will do rock-paper-scissors
-Round 1 is a tie
-
-At the end of round 1 Lapinnu:0 points-Romy:0 points 
-
-Lapinnu wins round 2 against Romy
-
-At the end of round 2 Lapinnu:1 points-Romy:0 points 
+At the end of round 2 Hermione:1 points-Ron:0 points 
 
 Round 3 is a tie
 
-At the end of round 3 Lapinnu:1 points-Romy:0 points 
+At the end of round 3 Hermione:1 points-Ron:0 points 
 
-Romy wins round 4 against Lapinnu
+Ron wins round 4 against Hermione
 
-At the end of round 4 Lapinnu:1 points-Romy:1 points 
+At the end of round 4 Hermione:1 points-Ron:1 points 
 
-Romy wins round 5 against Lapinnu
+Ron wins round 5 against Hermione
 
-At the end of round 5 Lapinnu:1 points-Romy:2 points 
+At the end of round 5 Hermione:1 points-Ron:2 points 
 
-Romy wins the Rock-Paper-Scissors game
+Ron wins the Rock-Paper-Scissors game
 
-Lapinnu has now 0 life points
+Hermione has now 4 life points
 
-Lapinnu died 
+The turn of Hermione is over
 
-The turn of Romy is over
+Harry turn starts 
 
-Romy wins the Battle Royale 
+Harry moves to 2,1 
+
+Harry and Hermione will do rock-paper-scissors
+Hermione wins round 1 against Harry
+
+At the end of round 1 Harry:0 points-Hermione:1 points 
+
+Hermione wins round 2 against Harry
+
+At the end of round 2 Harry:0 points-Hermione:2 points 
+
+Hermione wins the Rock-Paper-Scissors game
+
+Harry has now 2 life points
+
+The turn of Harry is over
+
+Ron turn starts 
+
+Ron moves to 0,2 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 2,0 
+
+Hermione and Harry will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Hermione:0 points-Harry:0 points 
+
+Harry wins round 2 against Hermione
+
+At the end of round 2 Hermione:0 points-Harry:1 points 
+
+Hermione wins round 3 against Harry
+
+At the end of round 3 Hermione:1 points-Harry:1 points 
+
+Harry wins round 4 against Hermione
+
+At the end of round 4 Hermione:1 points-Harry:2 points 
+
+Harry wins the Rock-Paper-Scissors game
+
+Hermione has now 3 life points
+
+The turn of Hermione is over
+
+Harry turn starts 
+
+Harry moves to 1,0 
+
+Harry and Hermione will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Harry:0 points-Hermione:0 points 
+
+Hermione wins round 2 against Harry
+
+At the end of round 2 Harry:0 points-Hermione:1 points 
+
+Round 3 is a tie
+
+At the end of round 3 Harry:0 points-Hermione:1 points 
+
+Hermione wins round 4 against Harry
+
+At the end of round 4 Harry:0 points-Hermione:2 points 
+
+Hermione wins the Rock-Paper-Scissors game
+
+Harry has now 1 life points
+
+The turn of Harry is over
+
+Ron turn starts 
+
+Ron moves to 3,2 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 1,1 
+
+Hermione and Harry will do rock-paper-scissors
+Harry wins round 1 against Hermione
+
+At the end of round 1 Hermione:0 points-Harry:1 points 
+
+Round 2 is a tie
+
+At the end of round 2 Hermione:0 points-Harry:1 points 
+
+Hermione wins round 3 against Harry
+
+At the end of round 3 Hermione:1 points-Harry:1 points 
+
+Hermione wins round 4 against Harry
+
+At the end of round 4 Hermione:2 points-Harry:1 points 
+
+Hermione wins the Rock-Paper-Scissors game
+
+Harry has now 0 life points
+
+Harry died 
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 0,0 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 2,0 
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 3,2 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 3,1 
+
+Hermione and Ron will do rock-paper-scissors
+Ron wins round 1 against Hermione
+
+At the end of round 1 Hermione:0 points-Ron:1 points 
+
+Round 2 is a tie
+
+At the end of round 2 Hermione:0 points-Ron:1 points 
+
+Ron wins round 3 against Hermione
+
+At the end of round 3 Hermione:0 points-Ron:2 points 
+
+Ron wins the Rock-Paper-Scissors game
+
+Hermione has now 2 life points
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 1,1 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 3,0 
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 2,0 
+
+Ron and Hermione will do rock-paper-scissors
+Hermione wins round 1 against Ron
+
+At the end of round 1 Ron:0 points-Hermione:1 points 
+
+Ron wins round 2 against Hermione
+
+At the end of round 2 Ron:1 points-Hermione:1 points 
+
+Round 3 is a tie
+
+At the end of round 3 Ron:1 points-Hermione:1 points 
+
+Ron wins round 4 against Hermione
+
+At the end of round 4 Ron:2 points-Hermione:1 points 
+
+Ron wins the Rock-Paper-Scissors game
+
+Hermione has now 1 life points
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 1,1 
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 3,0 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 1,2 
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 0,0 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 2,1 
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 1,1 
+
+Ron and Hermione will do rock-paper-scissors
+Hermione wins round 1 against Ron
+
+At the end of round 1 Ron:0 points-Hermione:1 points 
+
+Round 2 is a tie
+
+At the end of round 2 Ron:0 points-Hermione:1 points 
+
+Hermione wins round 3 against Ron
+
+At the end of round 3 Ron:0 points-Hermione:2 points 
+
+Hermione wins the Rock-Paper-Scissors game
+
+Ron has now 4 life points
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 3,2 
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 0,2 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 1,0 
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 3,2 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 0,2 
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 2,1 
+
+The turn of Ron is over
+
+Hermione turn starts 
+
+Hermione moves to 1,1 
+
+Hermione and Ron will do rock-paper-scissors
+Hermione wins round 1 against Ron
+
+At the end of round 1 Hermione:1 points-Ron:0 points 
+
+Round 2 is a tie
+
+At the end of round 2 Hermione:1 points-Ron:0 points 
+
+Round 3 is a tie
+
+At the end of round 3 Hermione:1 points-Ron:0 points 
+
+Ron wins round 4 against Hermione
+
+At the end of round 4 Hermione:1 points-Ron:1 points 
+
+Hermione wins round 5 against Ron
+
+At the end of round 5 Hermione:2 points-Ron:1 points 
+
+Hermione wins the Rock-Paper-Scissors game
+
+Ron has now 3 life points
+
+The turn of Hermione is over
+
+Ron turn starts 
+
+Ron moves to 1,0 
+
+Ron and Hermione will do rock-paper-scissors
+Ron wins round 1 against Hermione
+
+At the end of round 1 Ron:1 points-Hermione:0 points 
+
+Hermione wins round 2 against Ron
+
+At the end of round 2 Ron:1 points-Hermione:1 points 
+
+Round 3 is a tie
+
+At the end of round 3 Ron:1 points-Hermione:1 points 
+
+Round 4 is a tie
+
+At the end of round 4 Ron:1 points-Hermione:1 points 
+
+Ron wins round 5 against Hermione
+
+At the end of round 5 Ron:2 points-Hermione:1 points 
+
+Ron wins the Rock-Paper-Scissors game
+
+Hermione has now 0 life points
+
+Hermione died 
+
+The turn of Ron is over
+
+Ron wins the Battle Royale 
 
