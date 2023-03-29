@@ -1,0 +1,351 @@
+The Battle Royale begins 
+
+Lapinnu turn starts 
+
+Lapinnu new location is 0,0 
+
+The turn of Lapinnu is over
+
+Brownie turn starts 
+
+Brownie new location is 0,1 
+
+Brownie and Lapinnu will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Brownie:0 points-Lapinnu:0 points 
+
+Lapinnu wins round 2 against Brownie
+
+At the end of round 2 Brownie:0 points-Lapinnu:1 points 
+
+Brownie wins round 3 against Lapinnu
+
+At the end of round 3 Brownie:1 points-Lapinnu:1 points 
+
+Brownie wins round 4 against Lapinnu
+
+At the end of round 4 Brownie:2 points-Lapinnu:1 points 
+
+Brownie wins the Rock-Paper-Scissors game
+
+Lapinnu has now 4 life points
+
+The turn of Brownie is over
+
+Romy turn starts 
+
+Romy new location is 2,0 
+
+The turn of Romy is over
+
+Lapinnu turn starts 
+
+Lapinnu new location is 0,2 
+
+Lapinnu and Brownie will do rock-paper-scissors
+Brownie wins round 1 against Lapinnu
+
+At the end of round 1 Lapinnu:0 points-Brownie:1 points 
+
+Brownie wins round 2 against Lapinnu
+
+At the end of round 2 Lapinnu:0 points-Brownie:2 points 
+
+Brownie wins the Rock-Paper-Scissors game
+
+Lapinnu has now 3 life points
+
+The turn of Lapinnu is over
+
+Brownie turn starts 
+
+Brownie new location is 1,0 
+
+Brownie and Romy will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Brownie:0 points-Romy:0 points 
+
+Brownie wins round 2 against Romy
+
+At the end of round 2 Brownie:1 points-Romy:0 points 
+
+Round 3 is a tie
+
+At the end of round 3 Brownie:1 points-Romy:0 points 
+
+Round 4 is a tie
+
+At the end of round 4 Brownie:1 points-Romy:0 points 
+
+Romy wins round 5 against Brownie
+
+At the end of round 5 Brownie:1 points-Romy:1 points 
+
+Round 6 is a tie
+
+At the end of round 6 Brownie:1 points-Romy:1 points 
+
+Romy wins round 7 against Brownie
+
+At the end of round 7 Brownie:1 points-Romy:2 points 
+
+Romy wins the Rock-Paper-Scissors game
+
+Brownie has now 4 life points
+
+The turn of Brownie is over
+
+Romy turn starts 
+
+Romy new location is 3,1 
+
+The turn of Romy is over
+
+Lapinnu turn starts 
+
+Lapinnu new location is 0,1 
+
+The turn of Lapinnu is over
+
+Brownie turn starts 
+
+Brownie new location is 2,0 
+
+The turn of Brownie is over
+
+Romy turn starts 
+
+Romy new location is 0,2 
+
+Romy and Lapinnu will do rock-paper-scissors
+Romy wins round 1 against Lapinnu
+
+At the end of round 1 Romy:1 points-Lapinnu:0 points 
+
+Round 2 is a tie
+
+At the end of round 2 Romy:1 points-Lapinnu:0 points 
+
+Romy wins round 3 against Lapinnu
+
+At the end of round 3 Romy:2 points-Lapinnu:0 points 
+
+Romy wins the Rock-Paper-Scissors game
+
+Lapinnu has now 2 life points
+
+The turn of Romy is over
+
+Lapinnu turn starts 
+
+Lapinnu new location is 1,0 
+
+Lapinnu and Brownie will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Lapinnu:0 points-Brownie:0 points 
+
+Brownie wins round 2 against Lapinnu
+
+At the end of round 2 Lapinnu:0 points-Brownie:1 points 
+
+Brownie wins round 3 against Lapinnu
+
+At the end of round 3 Lapinnu:0 points-Brownie:2 points 
+
+Brownie wins the Rock-Paper-Scissors game
+
+Lapinnu has now 1 life points
+
+The turn of Lapinnu is over
+
+Brownie turn starts 
+
+Brownie new location is 3,1 
+
+The turn of Brownie is over
+
+Romy turn starts 
+
+Romy new location is 3,0 
+
+Romy and Brownie will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Romy:0 points-Brownie:0 points 
+
+Round 2 is a tie
+
+At the end of round 2 Romy:0 points-Brownie:0 points 
+
+Brownie wins round 3 against Romy
+
+At the end of round 3 Romy:0 points-Brownie:1 points 
+
+Romy wins round 4 against Brownie
+
+At the end of round 4 Romy:1 points-Brownie:1 points 
+
+Brownie wins round 5 against Romy
+
+At the end of round 5 Romy:1 points-Brownie:2 points 
+
+Brownie wins the Rock-Paper-Scissors game
+
+Romy has now 4 life points
+
+The turn of Romy is over
+
+Lapinnu turn starts 
+
+Lapinnu new location is 3,2 
+
+Lapinnu and Brownie will do rock-paper-scissors
+Brownie wins round 1 against Lapinnu
+
+At the end of round 1 Lapinnu:0 points-Brownie:1 points 
+
+Lapinnu wins round 2 against Brownie
+
+At the end of round 2 Lapinnu:1 points-Brownie:1 points 
+
+Round 3 is a tie
+
+At the end of round 3 Lapinnu:1 points-Brownie:1 points 
+
+Lapinnu wins round 4 against Brownie
+
+At the end of round 4 Lapinnu:2 points-Brownie:1 points 
+
+Lapinnu wins the Rock-Paper-Scissors game
+
+Brownie has now 3 life points
+
+The turn of Lapinnu is over
+
+Brownie turn starts 
+
+Brownie new location is 2,0 
+
+Brownie and Romy will do rock-paper-scissors
+Romy wins round 1 against Brownie
+
+At the end of round 1 Brownie:0 points-Romy:1 points 
+
+Romy wins round 2 against Brownie
+
+At the end of round 2 Brownie:0 points-Romy:2 points 
+
+Romy wins the Rock-Paper-Scissors game
+
+Brownie has now 2 life points
+
+The turn of Brownie is over
+
+Romy turn starts 
+
+Romy new location is 0,1 
+
+The turn of Romy is over
+
+Lapinnu turn starts 
+
+Lapinnu new location is 2,1 
+
+Lapinnu and Brownie will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Lapinnu:0 points-Brownie:0 points 
+
+Brownie wins round 2 against Lapinnu
+
+At the end of round 2 Lapinnu:0 points-Brownie:1 points 
+
+Lapinnu wins round 3 against Brownie
+
+At the end of round 3 Lapinnu:1 points-Brownie:1 points 
+
+Round 4 is a tie
+
+At the end of round 4 Lapinnu:1 points-Brownie:1 points 
+
+Lapinnu wins round 5 against Brownie
+
+At the end of round 5 Lapinnu:2 points-Brownie:1 points 
+
+Lapinnu wins the Rock-Paper-Scissors game
+
+Brownie has now 1 life points
+
+The turn of Lapinnu is over
+
+Brownie turn starts 
+
+Brownie new location is 0,2 
+
+Brownie and Romy will do rock-paper-scissors
+Romy wins round 1 against Brownie
+
+At the end of round 1 Brownie:0 points-Romy:1 points 
+
+Round 2 is a tie
+
+At the end of round 2 Brownie:0 points-Romy:1 points 
+
+Brownie wins round 3 against Romy
+
+At the end of round 3 Brownie:1 points-Romy:1 points 
+
+Round 4 is a tie
+
+At the end of round 4 Brownie:1 points-Romy:1 points 
+
+Romy wins round 5 against Brownie
+
+At the end of round 5 Brownie:1 points-Romy:2 points 
+
+Romy wins the Rock-Paper-Scissors game
+
+Brownie has now 0 life points
+
+Brownie died 
+
+The turn of Romy is over
+
+Lapinnu turn starts 
+
+Lapinnu new location is 0,2 
+
+Lapinnu and Romy will do rock-paper-scissors
+Round 1 is a tie
+
+At the end of round 1 Lapinnu:0 points-Romy:0 points 
+
+Lapinnu wins round 2 against Romy
+
+At the end of round 2 Lapinnu:1 points-Romy:0 points 
+
+Round 3 is a tie
+
+At the end of round 3 Lapinnu:1 points-Romy:0 points 
+
+Romy wins round 4 against Lapinnu
+
+At the end of round 4 Lapinnu:1 points-Romy:1 points 
+
+Romy wins round 5 against Lapinnu
+
+At the end of round 5 Lapinnu:1 points-Romy:2 points 
+
+Romy wins the Rock-Paper-Scissors game
+
+Lapinnu has now 0 life points
+
+Lapinnu died 
+
+The turn of Romy is over
+
+Romy wins the Battle Royale 
+
