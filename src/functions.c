@@ -74,7 +74,7 @@ void move_player(int index,player *players_array)
      }while(!is_tile_available(new_x,new_y,players_array)); //repeat until there is an available tile
     players_array[index].x=new_x;
     players_array[index].y=new_y;
-    sprintf(message,"%s new location is %d,%d \n",players_array[index].name,players_array[index].x,players_array[index].y);
+    sprintf(message,"%s moves to %d,%d \n",players_array[index].name,players_array[index].x,players_array[index].y);
     log_action(message);
 }
 
