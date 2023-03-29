@@ -3,6 +3,9 @@
 #include <time.h>
 #include <string.h>
 #include "functions.h"
+#include "player_list.h"
+#include "player_cell.h"
+
 
 
 
@@ -15,41 +18,6 @@ int is_tile_out_of_bounds(int x, int y)
     return 0;  //within bounds
 }
 
-int is_tile_available(int x, int y, player *players_array)
-{
-    int i;
-    //check if the tile is within bounds
-    if(is_tile_out_of_bounds(x,y)){
-        return 0;
-    }
-    //Loop through players array to check if tile is occupied
-    for(i=0;i<num_players;i++)
-    {
-        if(players_array[i].x == x && players_array[i].y == y){ //checking if x and y coordinates match with another player
-        return 0; //tile unavailable
-    }
-    }
-    return 1; //tile available
-}
-
-int is_name_available(char *name,player *players_array)
-{
- for(int i=0;i<num_players;i++)
- {  
-    
-    /*if(strcmp(name,players_array[i].name)==0) //comparing random name with names in players_array
-    {
-        return 0;
-    }*/
-    if(name[0]==players_array[i].name[0])
-    {
-        return 0;
-    }
-
-    
- }
- return 1;
-}
 int get_name_count(char* file) {
     FILE* fp;
     int count = 0;
@@ -92,13 +60,46 @@ int get_name(char* file, char* name) {
     return 0;
 }
 
+
+int is_tile_available(int x, int y, player *players_array)
+{
+    int i;
+    //check if the tile is within bounds
+    if(is_tile_out_of_bounds(x,y)){
+        return 0;
+    }
+    //Loop through players array to check if tile is occupied
+    for(i=0;i<num_players;i++)
+    {
+        if(players_array[i].x == x && players_array[i].y == y){ //checking if x and y coordinates match with another player
+        return 0; //tile unavailable
+    }
+    }
+    return 1; //tile available
+}
+
+int is_name_available(char *name,player *players_array)
+{
+ for(int i=0;i<num_players;i++)
+ {  
+    
+    if(name[0]==players_array[i].name[0]) //checking the first letter with players_array members first letter
+    {
+        return 0;
+    }
+
+    
+ }
+ return 1;
+}
+
 void initialize( player* players_array,char *file)
 {
     char name[20];
     int i,x,y;
 
     srand(time(NULL));
- //Loop through the players array and initialize player names and life points
+    //Loop through the players array and initialize player names and life points
     for(i=0;i<num_players;i++)
     {
      player new_player;
@@ -107,10 +108,6 @@ void initialize( player* players_array,char *file)
         get_name(file,name);
      }while(!is_name_available(name,players_array));
      strncpy(new_player.name,name,20);
-     /*printf("Enter player %d name\n",i+1);
-     scanf("%s",name);
-     strncpy(new_player.name,name,20);*/
-     
      //Assign the player to a random square on the board 
      do {
         x = rand() % board_length;
@@ -283,7 +280,7 @@ void check_fight(int player_index,int x, int y, player *players_array)
 {
    if(!is_tile_out_of_bounds(x,y)&&!is_tile_available(x,y,players_array)){ 
         int enemy_index =find_player_index(x,y,players_array); //finds which player is on the adjacent enemy tile
-        sprintf(message,"%s and %s will do rock-paper-scissors",players_array[player_index].name,players_array[enemy_index].name);
+        sprintf(message,"%s and %s will do rock-paper-scissors \n",players_array[player_index].name,players_array[enemy_index].name);
         log_action(message);
         fight(enemy_index,player_index, players_array);
     } 

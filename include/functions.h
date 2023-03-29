@@ -26,3 +26,8 @@ void display_board( player *players_array); //To display the board
 int get_name_count(char* file); //To get word count in a file
 int get_name(char* file, char* name);//to get a name
 int is_name_available(char *name,player *players_array);//To check if a random name is available
+
+/* For Linked List */
+//int is_tile_available(int x, int y, player_list *players); 
+//int is_name_available(char *name, player_list *players);
+//void initialize(player_list *players,char *file);
